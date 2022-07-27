@@ -1,0 +1,15 @@
+{
+    "STEAM_PAGE": "https://store.steampowered.com",
+    "NEW_AND_NOTEWORTHY": "//div[@id=\"noteworthy_tab\"]//span[@class=\"pulldown\"]//a[@class=\"pulldown_desktop\"]",
+    "TOP_SELLERS": "//div[@id=\"noteworthy_flyout\"]//div[@class=\"popup_body popup_menu popup_menu_browse\"]//a[@class=\"popup_menu_item\"]",
+    "ACTION": "//div[@id=\"TagFilter_Container\"]//div[@data-value=\"19\"]//span[@class=\"tab_filter_control tab_filter_control_include \"]//span//span[@class=\"tab_filter_control_checkbox\"]",
+    "NARROW_BY_NUMBER_OF_PLAYERS": "//div[@id=\"additional_search_options\"]//div[@data-collapse-name=\"category3\"]//div[@class=\"block_header\"]//div",
+    "LAN_CO_OP": "//div[@id=\"additional_search_options\"]//div[@data-collapse-name=\"category3\"]//div[@class=\"block_content block_content_inner\"]//div[@data-value=\"48\"]//span[@data-value=\"48\"]//span//span[@class=\"tab_filter_control_checkbox\"]",
+    "STEAM_OS_LINUX": "//div[@id=\"additional_search_options\"]//div[@data-collapse-name=\"os\"]//div[@class=\"block_content block_content_inner\"]//div[@data-value=\"linux\"]//span[@data-value=\"linux\"]//span//span[@class=\"tab_filter_control_checkbox\"]",
+    "FIRST_GAME_NAME": "//div[@id=\"search_resultsRows\"]//a[1]//div[@class=\"responsive_search_name_combined\"]//div[@class=\"col search_name ellipsis\"]//span[@class=\"title\"]",
+    "FIRST_GAME_DATE": "//div[@id=\"search_resultsRows\"]//a[1]//div[@class=\"responsive_search_name_combined\"]//div[@class=\"col search_released responsive_secondrow\"]",
+    "FIRST_GAME_PRICE": "//div[@id=\"search_resultsRows\"]//a[1]//div[@class=\"responsive_search_name_combined\"]//div[@class=\"col search_price_discount_combined responsive_secondrow\"]//div[contains(@class,\"col search_price\")]",
+    "FIRST_GAME_IMG": "//div[@id=\"search_resultsRows\"]//a[1]//div[@class=\"col search_capsule\"]//img"
+}
+
+
